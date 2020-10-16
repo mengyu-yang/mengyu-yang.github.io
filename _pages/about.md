@@ -23,4 +23,4 @@ Research
 
 Misc
 ======
-This is my dog [Jill]({{ site.url }}{{ site.baseurl }}/images/jill.jpg), although she only responds to . 
+This is my dog [Jill]({{ site.url }}{{ site.baseurl }}/images/jill.jpg), although she only responds to 吉. 
