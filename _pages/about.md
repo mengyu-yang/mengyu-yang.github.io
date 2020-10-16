@@ -23,4 +23,4 @@ Research
 
 Misc
 ======
-Here's a photo of my dog [Jill]({{ site.url }}{{ site.baseurl }}/images/jill.png) (although she only responds to ), who's been with me through the ups and downs of middle school, high school, and now university. 
+Here's a photo of my dog [Jill]({{ site.url }}{{ site.baseurl }}/images/jill.jpg) (although she only responds to ), who's been with me through the ups and downs of middle school, high school, and now university. 
