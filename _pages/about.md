@@ -20,3 +20,7 @@ Research
 ======
 | <figure style="width: 300px"> <img src="{{ site.url }}{{ site.baseurl }}/images/valley.gif" alt=""> </figure> | ***Mask-Guided Discovery of Semantic Manifolds in Generative Models***<br/>**Mengyu Yang**, David Rokeby, Xavier Snelgrove <br/> NeurIPS 2020 Workshop on Machine Learning for Creativity and Design <br/> paper \| code \| project |
 | <figure style="width: 300px"> <img src="{{ site.url }}{{ site.baseurl }}/images/guitar.png" alt=""> </figure> | ***Soloist: Generating Mixed-Initiative Tutorials from Existing Music Instructional Videos Through Audio Processing***<br/>Bryan Wang, **Mengyu Yang**, Tovi Grossman <br/> Submitted to CHI 2021 <br/> paper \| code \| project |
+
+MISC
+======
+Here's a photo of my dog [Jill]({{ site.url }}{{ site.baseurl }}/images/jill.png) (although she only responds to ), who's been with me through the ups and downs of middle school, high school, and now university. 
