@@ -25,6 +25,14 @@ Research
 | <figure style="width: 230px"> <img src="{{ site.url }}{{ site.baseurl }}/images/guitar.png" alt=""> </figure> |  ***Soloist: Generating Mixed-Initiative Tutorials from Existing Music Instructional Videos Through Audio Processing***<br/>Bryan Wang, **Mengyu Yang**, Tovi Grosssmann<br/>Submitted to CHI 2021<br/>Project \| Paper \| Code|
 
 
+Teaching 
+======
+ESC101 at University of Toronto. Praxis I (Foundational Engineering Design).   
+Fall 2019. TA.
+
+ESC102 at University of Toronto. Praxis II (Engineering Design). [link](https://engsci.utoronto.ca/explore_our_program/esc102showcase/)
+Winter 2020. TA.
+
 
 Misc
 ======
