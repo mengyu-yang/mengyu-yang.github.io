@@ -109,6 +109,7 @@
 }
 
 .author__name {
+  text-align: justify;
   margin: 0;
 
   @include breakpoint($large) {
@@ -122,7 +123,6 @@
 }
 
 .author__bio {
-  text-align: center;
   margin: 0;
 
   @include breakpoint($large) {
