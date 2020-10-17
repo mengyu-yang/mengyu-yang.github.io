@@ -11,6 +11,7 @@ table {
 
   & + table {
     margin-top: 0.1em;
+    margin-left: 30px;
   }
 }
 
@@ -27,8 +28,8 @@ th {
 }
 
 td {
-//   padding: 0.01em;
-  padding: 10px;
+  padding: 0.01em;
+//   padding: 10px;
   border-bottom: 0px solid $light-gray;
   border-right: 0px solid $light-gray;
 }
