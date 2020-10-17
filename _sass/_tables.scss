@@ -7,7 +7,7 @@ table {
   width: 100%;
   font-family: $global-font-family;
   border-collapse: collapse;
-  border: 0px solid $light-gray;
+  border: 0px solid $white;
 
   & + table {
     margin-top: 0.1em;
@@ -20,7 +20,7 @@ thead {
 }
 
 th {
-  padding: 0.01em;
+  padding: 1em;
   font-weight: bold;
   text-align: left;
   border-right: 0px solid $light-gray;
