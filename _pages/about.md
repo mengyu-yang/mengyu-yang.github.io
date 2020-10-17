@@ -28,10 +28,10 @@ Research
 Teaching 
 ======
 ESC101: Praxis I (Foundational Engineering Design) | University of Toronto   
-Fall 2019, TA
+Fall 2019, Peer Assistant TA
 
 ESC102: Praxis II (Engineering Design) | University of Toronto [(Link)](https://engsci.utoronto.ca/explore_our_program/esc102showcase/)  
-Winter 2020, TA
+Winter 2020, Peer Assistant TA
 
 
 Misc
