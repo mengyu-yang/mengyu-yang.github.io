@@ -36,4 +36,4 @@ Winter 2020, Peer Assistant TA
 
 Misc
 ======
-This is my dog, [Jill]({{ site.url }}{{ site.baseurl }}/images/jill.jpg), although she mostly responds to 吉儿. 
+This is my dog, [Jill]({{ site.url }}{{ site.baseurl }}/images/jill.jpg), although she mostly responds to 吉儿. She's a Chihuahua.  
