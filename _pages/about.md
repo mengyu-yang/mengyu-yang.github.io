@@ -21,8 +21,8 @@ Here's my [CV]({{ site.url }}{{ site.baseurl }}/files/Mengyu_Yang_CV.pdf)
 Research 
 ======
 
-| <figure style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/valley.gif" alt=""> </figure> | ***Mask-Guided Discovery of Semantic Manifolds in Generative Models***<br/>**Mengyu Yang**, David Rokeby, Xavier Snelgrove<br/>NeurIPS 2020 Workshop on Machine Learning for Creativity and Design<br/>Project \| Paper \| Code|
-| <figure style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/guitar.png" alt=""> </figure> |  ***Soloist: Generating Mixed-Initiative Tutorials from Existing Music Instructional Videos Through Audio Processing***<br/>Bryan Wang, **Mengyu Yang**, Tovi Grosssmann<br/>Submitted to CHI 2021<br/>project \| Project \| Paper \| Code|
+| <figure style="width: 230px"> <img src="{{ site.url }}{{ site.baseurl }}/images/valley.gif" alt=""> </figure> | ***Mask-Guided Discovery of Semantic Manifolds in Generative Models***<br/>**Mengyu Yang**, David Rokeby, Xavier Snelgrove<br/>NeurIPS 2020 Workshop on Machine Learning for Creativity and Design<br/>Project \| Paper \| Code|
+| <figure style="width: 230px"> <img src="{{ site.url }}{{ site.baseurl }}/images/guitar.png" alt=""> </figure> |  ***Soloist: Generating Mixed-Initiative Tutorials from Existing Music Instructional Videos Through Audio Processing***<br/>Bryan Wang, **Mengyu Yang**, Tovi Grosssmann<br/>Submitted to CHI 2021<br/>project \| Project \| Paper \| Code|
 
 Misc
 ======
