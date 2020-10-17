@@ -21,8 +21,8 @@ Here's my [CV]({{ site.url }}{{ site.baseurl }}/files/Mengyu_Yang_CV.pdf)
 Research 
 ======
 
-| <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/valley.gif" alt=""> </figure> | **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks**<br/>Jun-Yan Zhu*, **Taesung Park\***, Phillip Isola, and Alexei A. Efros<br/>ICCV 2017 (Spotlight, * indicates equal contribution) <br/>[project](https://junyanz.github.io/CycleGAN/) \| [PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) \| [Torch](https://github.com/junyanz/CycleGAN) \| [paper](https://arxiv.org/pdf/1703.10593.pdf)|
-| <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/guitar.png" alt=""> </figure> |  **Inverse Optimal Control for Humanoid Locomotion**<br/>**Taesung Park**, Sergey Levine<br/>RSS Workshop on Inverse Optimal Control & Robotic Learning from Demonstration, 2013<br/>[paper]({{ site.url }}{{ site.baseurl }}/files/humanioc.pdf)|
+| <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/valley.gif" alt=""> </figure> | ***Mask-Guided Discovery of Semantic Manifolds in Generative Models***<br/>**Mengyu Yang**, David Rokeby, Xavier Snelgrove<br/>NeurIPS 2020 Workshop on Machine Learning for Creativity and Design<br/>project \| Project \| Paper \| Code|
+| <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/guitar.png" alt=""> </figure> |  ***Soloist: Generating Mixed-Initiative Tutorials from Existing Music Instructional Videos Through Audio Processing***<br/>Bryan Wang, **Mengyu Yang**, Tovi Grosssmann<br/>Submitted to CHI 2021<br/>project \| Project \| Paper \| Code|
 
 Misc
 ======
