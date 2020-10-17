@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hi! Welcome to my personal site."
+title                    : "Mengyu Yang's Personal Site"
 title_separator          : "-"
 name                     : &name "Mengyu Yang"
 description              : &description "4th Year EngSci at the University of Toronto"
