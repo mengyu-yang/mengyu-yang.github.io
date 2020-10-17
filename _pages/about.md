@@ -30,7 +30,7 @@ Teaching
 ESC101 at University of Toronto. Praxis I (Foundational Engineering Design).   
 Fall 2019. TA.
 
-ESC102 at University of Toronto. Praxis II (Engineering Design). [link](https://engsci.utoronto.ca/explore_our_program/esc102showcase/)
+ESC102 at University of Toronto. Praxis II (Engineering Design). [Link](https://engsci.utoronto.ca/explore_our_program/esc102showcase/)
 Winter 2020. TA.
 
 
