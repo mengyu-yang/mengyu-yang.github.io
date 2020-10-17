@@ -22,6 +22,7 @@ Research
 ======
 <figure style="width: 50px"> <img src="{{ site.url }}{{ site.baseurl }}/images/valley.gif" alt=""> </figure> | ***Mask-Guided Discovery of Semantic Manifolds in Generative Models***<br/>**Mengyu Yang**, David Rokeby, Xavier Snelgrove <br/> NeurIPS 2020 Workshop on Machine Learning for Creativity and Design <br/> paper \| code \| project 
 <figure style="width: 300px"> <img src="{{ site.url }}{{ site.baseurl }}/images/guitar.png" alt=""> </figure> | ***Soloist: Generating Mixed-Initiative Tutorials from Existing Music Instructional Videos Through Audio Processing***<br/>Bryan Wang, **Mengyu Yang**, Tovi Grossman <br/> Submitted to CHI 2021 <br/> paper \| code \| project 
+| <figure style="width: 120px"> <img src="{{ site.url }}{{ site.baseurl }}/images/valley.gif" alt=""> </figure> | **Semantic Image Synthesis with Spatially-Adaptive Normalization**<br/>**Taesung Park**, Ming-Yu Liu, Ting-Chun Wang, Jun-Yan Zhu<br/>CVPR 2019 (Oral) Best Paper Finalist <br/> [SIGGRAPH RTL Best of Show and Audience Choice Award](https://news.developer.nvidia.com/gaugan-wins-major-awards-at-siggraph-2019s-real-time-live-competition/) <br/> [100 Greatest Innovations of 2019 by Popular Science](https://www.popsci.com/story/technology/best-of-whats-new-2019/) <br/> [paper](https://arxiv.org/abs/1903.07291) \| [code](https://github.com/NVlabs/SPADE) \| [project](https://nvlabs.github.io/SPADE/) |
 
 Misc
 ======
