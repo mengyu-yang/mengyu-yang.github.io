@@ -21,7 +21,7 @@ Here's my [CV]({{ site.url }}{{ site.baseurl }}/files/Mengyu_Yang_CV.pdf)
 Research 
 ======
 
-| <figure> <img src="{{ site.url }}{{ site.baseurl }}/images/valley.gif" alt="" style="width: 120px"> </figure> |**Semantic Image Synthesis with Spatially-Adaptive Normalization**
+| <figure> <img src="{{ site.url }}{{ site.baseurl }}/images/valley.gif" alt="" style="width: 120px"> </figure> |**Semantic Image Synthesis with Spatially-Adaptive Normalization** |
 
 
 Misc
