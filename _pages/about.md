@@ -29,7 +29,8 @@ Research
 Teaching 
 ======
 **ESC101: Praxis I | University of Toronto**   
-Fall 2019, Peer Assistant TA  
+Fall 2019, Peer Assistant TA
+<a/>
 
 <ins>Course Description:</ins>   
 - Praxis I introduces students to a rigourous foundation of engineering design theory. It teaches and evaluates students on aspects such as communication, teamwork, research, and prototyping. The latter half of the course gets teams of students to design and prototype a product that improves the lived experience of a community within campus.  
@@ -40,7 +41,6 @@ Fall 2019, Peer Assistant TA
 * Listened to teams' "Alpha" presentations (semi-structured discussions on project progress and design approaches used) and suggested feedback and future directions.
 * Listened to "Crit" presentations (formal presentation where teams explain their methodology and present a recommended design) and offered constructive feedback.
 
-<br/> 
 
 **ESC102: Praxis II [(Link)](https://engsci.utoronto.ca/explore_our_program/esc102showcase/) | University of Toronto**     
 Winter 2020, Peer Assistant TA 
