@@ -32,8 +32,7 @@ ESC101: Praxis I | University of Toronto
 Fall 2019, Peer Assistant TA  
 **Course Description:**  
 * Praxis I introduces students to a rigourous foundation of engineering design theory. It teaches and evaluates students on aspects such as communication, teamwork, research, and prototyping. The latter half of the course gets teams of students to design and prototype a product that improves the lived experience of a community within campus.
-</ul>
-**Activities:**  
+__Activities:__  
 * Graded Core Competency quizzes evaluating students' abilities on fundamental engineering design skills such as research, argumentation, and comprehension of design requirements. 
 * Listened to teams' "Alpha" presentations (semi-structured discussions on project progress and design approaches used) and suggested feedback and future directions.
 * Listened to "Crit" presentations (formal presentation where teams explain their methodology and present a recommended design) and offered constructive feedback.
