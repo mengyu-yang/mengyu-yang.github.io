@@ -28,7 +28,8 @@ Research
 
 Teaching 
 ======
-After taking these courses myself during first year, I developed a strong interest in engineering design. It incorporates ideas and skills that can be applied to any field and understanding its fundamentals made me cognizant of how it is incorporated into everyday things. 
+After taking these courses myself during first year, I developed a strong interest in engineering design. It incorporates ideas and skills that can be applied to any field and understanding its fundamentals made me cognizant of how it is incorporated into everyday things.  
+
 **ESC101: Praxis I | University of Toronto**   
 Fall 2019, Peer Assistant TA  
 <ins>Course Description:</ins>   
