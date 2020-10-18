@@ -29,17 +29,17 @@ Research
 Teaching 
 ======
 ESC101: Praxis I (Foundational Engineering Design) | University of Toronto   
-Fall 2019, Peer Assistant TA
-Course Description: 
-blah blah blah 
-Activities:
+Fall 2019, Peer Assistant TA  
+Course Description:   
+blah blah blah   
+Activities:  
 * Graded Core Competency quizzes evaluating students' abilities on fundamental engineering design skills such as research, argumentation, and comprehension of design requirements. 
 * Listened to teams' "Alpha" presentations (semi-structured discussions on project progress and design approaches used) and suggested feedback and future directions.
 * Listened to "Crit" presentations (formal presentation where teams explain their methodology and present a recommended design) and offered constructive feedback.
 
 ESC102: Praxis II (Engineering Design) [(Link)](https://engsci.utoronto.ca/explore_our_program/esc102showcase/) | University of Toronto     
-Winter 2020, Peer Assistant TA
-Course Description: Blah blah
+Winter 2020, Peer Assistant TA  
+Course Description: Blah blah  
 Activities:
 * Held group sessions on approaching potential communities to work with through cold calling. 
 * Graded field note reports detailing students' initial assessments of their chosen community after visiting.  
