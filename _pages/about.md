@@ -21,7 +21,6 @@ Here's my [CV]({{ site.url }}{{ site.baseurl }}/files/Mengyu_Yang_CV.pdf)
 Research 
 ======
 (Links coming soon!)
-
 | <figure style="width: 230px"> <img src="{{ site.url }}{{ site.baseurl }}/images/valley.gif" alt=""> </figure> | ***Mask-Guided Discovery of Semantic Manifolds in Generative Models***<br/>**Mengyu Yang**, David Rokeby, Xavier Snelgrove<br/>Submitted to NeurIPS 2020 Workshop on Machine Learning for Creativity and Design<br/>Project \| Paper \| Code|
 | <figure style="width: 230px"> <img src="{{ site.url }}{{ site.baseurl }}/images/guitar.png" alt=""> </figure> | ***Soloist: Generating Mixed-Initiative Tutorials from Existing Music Instructional Videos Through Audio Processing***<br/>Bryan Wang, **Mengyu Yang**, Tovi Grosssmann<br/>Submitted to CHI 2021<br/>Project \| Paper \| Code|
 
@@ -45,7 +44,7 @@ Winter 2020, Peer Assistant TA
 <ins>Course Description:</ins>  
 * A continuation of Praxis I, Praxis II consists of a semester-long design project where student groups approach and work with a community of their choice within the Greater Toronto Area. Over the course of this project, students are exposed to the entire engineering design process, starting from visiting potential communities to writing a Request for Proposal on an identified opportunity, iteratively refining and prototyping a design, and finally presenting and defending their work in a Showcase that is open to the general public. 
 <!-- end of the list -->
-<ins>Activities:</ins> 
+<ins>Activities:</ins>   
 * Held group sessions on approaching potential communities to work with through cold calling. 
 * Graded field note reports detailing students' initial assessments of their chosen community after visiting.  
 * Held tutorial sessions to support students with their semester-long design projects.  
