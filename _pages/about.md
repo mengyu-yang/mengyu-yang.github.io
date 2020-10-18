@@ -38,10 +38,13 @@ Fall 2019, Peer Assistant TA
 * Listened to teams' "Alpha" presentations (semi-structured discussions on project progress and design approaches used) and suggested feedback and future directions.
 * Listened to "Crit" presentations (formal presentation where teams explain their methodology and present a recommended design) and offered constructive feedback.
 
+
+
 ESC102: Praxis II [(Link)](https://engsci.utoronto.ca/explore_our_program/esc102showcase/) | University of Toronto     
 Winter 2020, Peer Assistant TA  
 **Course Description:** 
-* A continuation of Praxis I, Praxis II consists of a semester-long design project where student groups approach and work with a community of their choice within the Greater Toronto Area. Over the course of this project, students are exposed to the entire engineering design process, starting from visiting potential communities to writing a Request for Proposal on an identified opportunity, iteratively refining and prototyping a design, and finally presenting and defending their work in a Showcase that is open to the general public.    
+* A continuation of Praxis I, Praxis II consists of a semester-long design project where student groups approach and work with a community of their choice within the Greater Toronto Area. Over the course of this project, students are exposed to the entire engineering design process, starting from visiting potential communities to writing a Request for Proposal on an identified opportunity, iteratively refining and prototyping a design, and finally presenting and defending their work in a Showcase that is open to the general public. 
+<!-- end of the list -->
 __Activities:__  
 * Held group sessions on approaching potential communities to work with through cold calling. 
 * Graded field note reports detailing students' initial assessments of their chosen community after visiting.  
