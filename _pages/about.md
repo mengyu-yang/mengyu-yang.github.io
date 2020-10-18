@@ -55,7 +55,7 @@ Winter 2020, Peer Assistant TA
 
 More About Me 
 ======
-* I've been playing classical piano since I was 5. During my Grade 12 year, I had the pleasure of learning with [Valerie Tryon](https://en.wikipedia.org/wiki/Valerie_Tryon). I'm also passionate about all other kinds of music as well! Here are some of my favourites from [jazz](https://www.youtube.com/watch?v=XaAiNL-YJIs), [contemporary classical](https://www.youtube.com/watch?v=lzI3QFz01Ds), [opera](https://www.youtube.com/watch?v=YjMwDbFng_g), [indie](https://www.youtube.com/watch?v=8MNEEGgFsKw), and [pop](https://www.youtube.com/watch?v=8BvRgwUisSg).  
+* I've been playing classical piano since I was 5. During my Grade 12 year, I had the pleasure of learning with [Valerie Tryon](https://en.wikipedia.org/wiki/Valerie_Tryon). I'm also passionate about all other kinds of music as well! Here are some of my favourites from [jazz](https://www.youtube.com/watch?v=XaAiNL-YJIs), [contemporary classical](https://www.youtube.com/watch?v=lzI3QFz01Ds), [opera](https://www.youtube.com/watch?v=YjMwDbFng_g), [indie](https://www.youtube.com/watch?v=8MNEEGgFsKw), [pop](https://www.youtube.com/watch?v=8BvRgwUisSg), and [R&B](https://www.youtube.com/watch?v=H_hT61-E5kg).  
 * I practiced Taekwondo since I was 6, although I've taken a break from it since starting university. I was a 2nd degree black belt by then. Here's a (very old) [clip]({{ site.url }}{{ site.baseurl }}/images/taekwondo.gif) of me when I was 13 breaking some boards. 
 * I'm a huge fan of coffee ☕. But honestly, who isn't? 
 * This is my dog, [Jill]({{ site.url }}{{ site.baseurl }}/images/jill.jpg), although she mostly responds to 吉儿. She's a Chihuahua.  
