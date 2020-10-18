@@ -49,7 +49,7 @@ Winter 2020, Peer Assistant TA
 <a/>
 
 <ins>Activities:</ins>     
-* Held group sessions on approaching potential communities to work with through cold calling. 
+* Held group sessions on how to approach potential communities to work with through cold calling. 
 * Graded field note reports detailing students' initial assessments of their chosen community after visiting.  
 * Held tutorial sessions to support students with their semester-long design projects.  
 
