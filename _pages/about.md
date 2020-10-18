@@ -30,7 +30,7 @@ Teaching
 ======
 #### ESC101: Praxis I | University of Toronto   
 Fall 2019, Peer Assistant TA  
-##### Course Description:   
+<ins>Course Description</ins>   
 - Praxis I introduces students to a rigourous foundation of engineering design theory. It teaches and evaluates students on aspects such as communication, teamwork, research, and prototyping. The latter half of the course gets teams of students to design and prototype a product that improves the lived experience of a community within campus.  
 <!-- end of the list -->
 ##### Activities:     
