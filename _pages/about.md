@@ -34,7 +34,7 @@ Fall 2019, Peer Assistant TA
 - Praxis I introduces students to a rigourous foundation of engineering design theory. It teaches and evaluates students on aspects such as communication, teamwork, research, and prototyping. The latter half of the course gets teams of students to design and prototype a product that improves the lived experience of a community within campus.  
 <a/>
 
-<ins>Activities':</ins>   
+<ins>Activities:</ins>   
 * Graded Core Competency quizzes evaluating students' abilities on fundamental engineering design skills such as research, argumentation, and comprehension of design requirements. 
 * Listened to teams' "Alpha" presentations (semi-structured discussions on project progress and design approaches used) and suggested feedback and future directions.
 * Listened to "Crit" presentations (formal presentation where teams explain their methodology and present a recommended design) and offered constructive feedback.
@@ -44,8 +44,9 @@ Fall 2019, Peer Assistant TA
 Winter 2020, Peer Assistant TA  
 <ins>Course Description:</ins>  
 * A continuation of Praxis I, Praxis II consists of a semester-long design project where student groups approach and work with a community of their choice within the Greater Toronto Area. Over the course of this project, students are exposed to the entire engineering design process, starting from visiting potential communities to writing a Request for Proposal on an identified opportunity, iteratively refining and prototyping a design, and finally presenting and defending their work in a Showcase that is open to the general public. 
-<!-- end of the list -->
-<ins>Activities:</ins>   
+<a/>
+
+<ins>Activities:</ins>     
 * Held group sessions on approaching potential communities to work with through cold calling. 
 * Graded field note reports detailing students' initial assessments of their chosen community after visiting.  
 * Held tutorial sessions to support students with their semester-long design projects.  
