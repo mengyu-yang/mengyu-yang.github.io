@@ -37,10 +37,10 @@ Winter 2020, Peer Assistant TA
 
 More About Me 
 ======
-* I've been playing classical piano since I was 5. During my Grade 12 year, I had the pleasure of learning with [Valerie Tryon](https://en.wikipedia.org/wiki/Valerie_Tryon). I'm passionate about all kinds of music as well, 
+* I've been playing classical piano since I was 5. During my Grade 12 year, I had the pleasure of learning with [Valerie Tryon](https://en.wikipedia.org/wiki/Valerie_Tryon). I'm also passionate about all other kinds of music as well! Here are some of my favourites from jazz, contemporary classical, indie, and pop.  
 
 * I practiced Taekwondo since I was 6, although I've taken a break from it at the beginning of university. I was a 2nd degree black belt by then. Here
-'s a (very old) video of me when I was 13 chopping some boards. 
+'s a (very old) [clip]({{ site.url }}{{ site.baseurl }}/images/taekwondo.gif) of me when I was 13 breaking some boards. 
 
 * I'm a huge fan of coffee ☕. But honestly, who isn't? 
 
