@@ -37,6 +37,11 @@ Winter 2020, Peer Assistant TA
 
 More About Me 
 ======
-* Test
+* I've been playing classical piano since I was 5. During my Grade 12 year, I had the pleasure of learning with [Valerie Tryon](https://en.wikipedia.org/wiki/Valerie_Tryon). I'm passionate about all kinds of music as well, 
 
-This is my dog, [Jill]({{ site.url }}{{ site.baseurl }}/images/jill.jpg), although she mostly responds to 吉儿. She's a Chihuahua.  
+* I practiced Taekwondo since I was 6, although I've taken a break from it at the beginning of university. I was a 2nd degree black belt by then. Here
+'s a (very old) video of me when I was 13 chopping some boards. 
+
+* I'm a huge fan of coffee ☕. But honestly, who isn't? 
+
+* This is my dog, [Jill]({{ site.url }}{{ site.baseurl }}/images/jill.jpg), although she mostly responds to 吉儿. She's a Chihuahua.  
