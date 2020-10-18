@@ -44,7 +44,7 @@ Winter 2020, Peer Assistant TA
 <ins>Course Description:</ins>  
 * A continuation of Praxis I, Praxis II consists of a semester-long design project where student groups approach and work with a community of their choice within the Greater Toronto Area. Over the course of this project, students are exposed to the entire engineering design process, starting from visiting potential communities to writing a Request for Proposal on an identified opportunity, iteratively refining and prototyping a design, and finally presenting and defending their work in a Showcase that is open to the general public. 
 <!-- end of the list -->
-<ins>Activities:</ins>   
+<ins>Activitiess:</ins>   
 * Held group sessions on approaching potential communities to work with through cold calling. 
 * Graded field note reports detailing students' initial assessments of their chosen community after visiting.  
 * Held tutorial sessions to support students with their semester-long design projects.  
