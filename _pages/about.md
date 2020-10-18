@@ -30,8 +30,7 @@ Teaching
 ======
 ESC101: Praxis I (Foundational Engineering Design) | University of Toronto   
 Fall 2019, Peer Assistant TA  
-**Course Description:**   
-blah blah blah   
+**Course Description:**  
 **Activities:**  
 * Graded Core Competency quizzes evaluating students' abilities on fundamental engineering design skills such as research, argumentation, and comprehension of design requirements. 
 * Listened to teams' "Alpha" presentations (semi-structured discussions on project progress and design approaches used) and suggested feedback and future directions.
@@ -39,8 +38,8 @@ blah blah blah
 
 ESC102: Praxis II (Engineering Design) [(Link)](https://engsci.utoronto.ca/explore_our_program/esc102showcase/) | University of Toronto     
 Winter 2020, Peer Assistant TA  
-Course Description: Blah blah  
-Activities:
+**Course Description:** Blah blah  
+**Activities:**
 * Held group sessions on approaching potential communities to work with through cold calling. 
 * Graded field note reports detailing students' initial assessments of their chosen community after visiting.  
 * Held tutorial sessions to support students with their semester-long design projects.  
@@ -49,7 +48,5 @@ More About Me
 ======
 * I've been playing classical piano since I was 5. During my Grade 12 year, I had the pleasure of learning with [Valerie Tryon](https://en.wikipedia.org/wiki/Valerie_Tryon). I'm also passionate about all other kinds of music as well! Here are some of my favourites from [jazz](https://www.youtube.com/watch?v=XaAiNL-YJIs), [contemporary classical](https://www.youtube.com/watch?v=lzI3QFz01Ds), [opera](https://www.youtube.com/watch?v=YjMwDbFng_g), [indie](https://www.youtube.com/watch?v=8MNEEGgFsKw), and [pop](https://www.youtube.com/watch?v=8BvRgwUisSg).  
 * I practiced Taekwondo since I was 6, although I've taken a break from it since starting university. I was a 2nd degree black belt by then. Here's a (very old) [clip]({{ site.url }}{{ site.baseurl }}/images/taekwondo.gif) of me when I was 13 breaking some boards. 
-
 * I'm a huge fan of coffee ☕. But honestly, who isn't? 
-
 * This is my dog, [Jill]({{ site.url }}{{ site.baseurl }}/images/jill.jpg), although she mostly responds to 吉儿. She's a Chihuahua.  
