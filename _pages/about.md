@@ -35,6 +35,8 @@ ESC102: Praxis II (Engineering Design) [(Link)](https://engsci.utoronto.ca/explo
 Winter 2020, Peer Assistant TA
 
 
-Misc
+More About Me 
 ======
+* Test
+
 This is my dog, [Jill]({{ site.url }}{{ site.baseurl }}/images/jill.jpg), although she mostly responds to 吉儿. She's a Chihuahua.  
