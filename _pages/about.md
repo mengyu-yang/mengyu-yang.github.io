@@ -30,7 +30,7 @@ Teaching
 ======
 ESC101: Praxis I (Foundational Engineering Design) | University of Toronto   
 Fall 2019, Peer Assistant TA  
-Course Description:   
+### Course Description:   
 blah blah blah   
 Activities:  
 * Graded Core Competency quizzes evaluating students' abilities on fundamental engineering design skills such as research, argumentation, and comprehension of design requirements. 
