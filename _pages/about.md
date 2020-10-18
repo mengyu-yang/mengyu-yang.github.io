@@ -40,6 +40,7 @@ Fall 2019, Peer Assistant TA
 * Listened to teams' "Alpha" presentations (semi-structured discussions on project progress and design approaches used) and suggested feedback and future directions.
 * Listened to "Crit" presentations (formal presentation where teams explain their methodology and present a recommended design) and offered constructive feedback.
 
+<br/> 
 
 **ESC102: Praxis II [(Link)](https://engsci.utoronto.ca/explore_our_program/esc102showcase/) | University of Toronto**     
 Winter 2020, Peer Assistant TA 
