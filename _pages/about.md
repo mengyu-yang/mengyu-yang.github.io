@@ -37,7 +37,7 @@ Fall 2019, Peer Assistant TA
 
 <ins>Activities:</ins>   
 * Graded Core Competency quizzes evaluating students' abilities on fundamental engineering design skills such as research, argumentation, and comprehension of design requirements. 
-* Listened to teams' "Alpha" presentations (semi-structured discussions on project progress and design approaches used) and suggested feedback and future directions.
+* Listened to team "Alpha" presentations (semi-structured discussions on project progress and design approaches used) and suggested feedback and future directions.
 * Listened to "Crit" presentations (formal presentation where teams explain their methodology and present a recommended design) and offered constructive feedback.
 
 
