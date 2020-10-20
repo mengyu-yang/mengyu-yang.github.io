@@ -12,11 +12,11 @@ About Me
 ======
 I'm a 4th year undergraduate student at the University of Toronto, in the [Engineering Science](https://engsci.utoronto.ca/explore_our_program/about_engsci/) program specializing in [Machine Intelligence](https://engsci.utoronto.ca/explore_our_program/majors/machine-intelligence/). I'm also passionate about research at the intersection of machine learning, computer vision, and human-computer interaction. In other words, I like to build intelligent systems that interact with and reason about out multimodal world, with a focus on vision and audio. 
 
-During my summers and alongside my studies, I've had the pleasure of working at the [Dynamic Graphics Project](https://www.dgp.toronto.edu/) lab with [Tovi Grossman](https://www.tovigrossman.com/) and [Khai N. Truong](http://www.cs.toronto.edu/~khai/); I'm thankful to [Jonathan Rose](https://www.eecg.utoronto.ca/~jayar/) for introducing me to the [BMO Lab for Creative Research](https://bmolab.artsci.utoronto.ca/), where I worked with [David Rokeby](https://www.cdtps.utoronto.ca/people/directories/all-faculty/david-rokeby) and [Xavier Snelgrove](https://wxs.ca/); and I am currently at the [Vector Institute for Artificial Intelligence](https://vectorinstitute.ai/) working with [Sageev Oore](https://www.cs.smu.ca/~sageev/).  
+During my summers and alongside my studies, I've had the pleasure of working at the [Dynamic Graphics Project](https://www.dgp.toronto.edu/) lab with [Khai N. Truong](http://www.cs.toronto.edu/~khai/) and [Tovi Grossman](https://www.tovigrossman.com/); I'm thankful to [Jonathan Rose](https://www.eecg.utoronto.ca/~jayar/) for introducing me to the [BMO Lab for Creative Research](https://bmolab.artsci.utoronto.ca/), where I worked with [David Rokeby](https://www.cdtps.utoronto.ca/people/directories/all-faculty/david-rokeby) and [Xavier Snelgrove](https://wxs.ca/); and I am currently at the [Vector Institute for Artificial Intelligence](https://vectorinstitute.ai/) working with [Sageev Oore](https://www.cs.smu.ca/~sageev/).  
 
 CV 
 ======
-Here's my [CV]({{ site.url }}{{ site.baseurl }}/files/workshop.pdf)
+Here's my [CV]({{ site.url }}{{ site.baseurl }}/files/Mengyu_Yang_CV.pdf)
 
 Research 
 ======
