@@ -23,9 +23,7 @@ Research
 (Links coming soon!)
 
 | <figure style="width: 230px"> <img src="{{ site.url }}{{ site.baseurl }}/images/valley.gif" alt=""> </figure> | ***Mask-Guided Discovery of Semantic Manifolds in Generative Models***<br/>**Mengyu Yang**, David Rokeby, Xavier Snelgrove<br/>Submitted to NeurIPS 2020 Workshop on Machine Learning for Creativity and Design<br/>[Paper]({{ site.url }}{{ site.baseurl }}/files/workshop.pdf) \| Project \| Code|  
-
-<!--| <figure style="width: 230px"> <img src="{{ site.url }}{{ site.baseurl }}/images/guitar.png" alt=""> </figure> | ***Soloist: Generating Mixed-Initiative Tutorials from Existing Music Instructional Videos Through Audio Processing***<br/>Bryan Wang, **Mengyu Yang**, Tovi Grosssmann<br/>Submitted to CHI 2021<br/>Project \| Paper \| Code|-->
-| <figure style="width: 230px"> <img src="{{ site.url }}{{ site.baseurl }}/images/CHI2021.png" alt=""> </figure> | ***CHI 2021 Submission***<br/>Bryan Wang, **Meng yu Yang**, Tovi Grossman|
+| <figure style="width: 230px"> <img src="{{ site.url }}{{ site.baseurl }}/images/CHI2021.png" alt=""> </figure> | ***CHI 2021 Submission***<br/>Bryan Wang, **Mengyu Yang**, Tovi Grosssmann<br/>Project \| Paper \| Code|
 
 Teaching 
 ======
