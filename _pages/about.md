@@ -39,7 +39,8 @@ Fall 2019, Peer Assistant TA
 * Graded Core Competency quizzes evaluating students' abilities on fundamental engineering design skills such as research, argumentation, and comprehension of design requirements. 
 * Listened to team "Alpha" presentations (semi-structured discussions on project progress and design approaches used) and suggested feedback and future directions.
 * Listened to "Crit" presentations (formal presentation where teams explain their methodology and present a recommended design) and offered constructive feedback.
-<br/>
+
+
 **ESC102: Praxis II [(Link)](https://engsci.utoronto.ca/explore_our_program/esc102showcase/) | University of Toronto**     
 Winter 2020, Peer Assistant TA   
 <ins>Course Description:</ins>  
