@@ -93,7 +93,7 @@ redirect_from:
       - Praxis I (Intro to Engineering Design)<br/>
       - Engineering Mathematics and Computation<br/>
       - Calculus I<br/>
-      - Classical Mechanics
+      - Classical Mechanics<br/>
       - Structures and Materials     
     </td>
     <td>
