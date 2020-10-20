@@ -17,12 +17,12 @@ redirect_from:
  </tr>
  <tr>
     <td>
-      * Test 
-      * Test 
+      - Test<br/>
+      - Test 
     </td>
     <td>
-      * test 
-      * test
+      - test<br/>
+      - test
     </td>
  </tr>
 </table>
