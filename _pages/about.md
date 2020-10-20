@@ -16,7 +16,7 @@ During my summers and alongside my studies, I've had the pleasure of working at 
 
 CV 
 ======
-Here's my [CV]({{ site.url }}{{ site.baseurl }}/files/Mengyu_Yang_CV.pdf)
+Here's my [CV]({{ site.url }}{{ site.baseurl }}/files/workshop.pdf)
 
 Research 
 ======
