@@ -40,6 +40,7 @@ redirect_from:
       - Foundations of Computing<br/>
       - Matrix Algebra and Optimization<br/>
       - Signal Analysis and Communication<br/>
+      - Economic Analysis and Decision Making<br/>
       - Introduction to Databases<br/>
     </td>
     <td>
