@@ -14,7 +14,7 @@ I'm a 4th year undergraduate student at the University of Toronto in the [Engine
 
 During my summers and alongside my studies, I've had the pleasure of working at the [Dynamic Graphics Project](https://www.dgp.toronto.edu/) lab with [Khai N. Truong](http://www.cs.toronto.edu/~khai/) and [Tovi Grossman](https://www.tovigrossman.com/); I'm thankful to [Jonathan Rose](https://www.eecg.utoronto.ca/~jayar/) for introducing me to the [BMO Lab for Creative Research](https://bmolab.artsci.utoronto.ca/), where I worked with [David Rokeby](https://www.cdtps.utoronto.ca/people/directories/all-faculty/david-rokeby) and [Xavier Snelgrove](https://wxs.ca/); and I am currently at the [Vector Institute for Artificial Intelligence](https://vectorinstitute.ai/) working with [Sageev Oore](https://www.cs.smu.ca/~sageev/).  
 
-<!--Here's my [CV]({{ site.url }}{{ site.baseurl }}/files/Mengyu_Yang_CV.pdf) (last updated on Oct. 28, 2020)
+<!--Here's my [CV]({{ site.url }}{{ site.baseurl }}/files/Mengyu_Yang_CV.pdf) (last updated on Oct. 28, 2020)-->
 
 Research 
 ======
