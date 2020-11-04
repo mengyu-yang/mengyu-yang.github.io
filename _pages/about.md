@@ -20,7 +20,7 @@ Research
 ======
 (More links coming soon!)
 
-| <figure style="width: 230px"> <img src="{{ site.url }}{{ site.baseurl }}/images/valley.gif" alt=""> </figure> | ***Mask-Guided Discovery of Semantic Manifolds in Generative Models***<br/>**Mengyu Yang**, David Rokeby, Xavier Snelgrove<br/>NeurIPS 2020 Workshop on Machine Learning for Creativity and Design<br/>[Paper]({{ site.url }}{{ site.baseurl }}/files/workshop.pdf) \| Project \| Code|  
+| <figure style="width: 230px"> <img src="{{ site.url }}{{ site.baseurl }}/images/valley.gif" alt=""> </figure> | ***Mask-Guided Discovery of Semantic Manifolds in Generative Models***<br/>**Mengyu Yang**, David Rokeby, Xavier Snelgrove<br/>NeurIPS 2020 Workshop on Machine Learning for Creativity and Design<br/>[Paper]({{ site.url }}{{ site.baseurl }}/files/workshop.pdf) \| [Project](https://github.com/bmolab/masked-gan-manifold)|  
 | <figure style="width: 230px"> <img src="{{ site.url }}{{ site.baseurl }}/images/CHI2021.png" alt=""> </figure> | ***CHI 2021 Conference Submission***<br/>Bryan Wang, **Mengyu Yang**, Tovi Grossman<br/>Paper \| Project \| Code|
 
 Teaching 
