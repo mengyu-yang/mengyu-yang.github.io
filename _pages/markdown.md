@@ -20,7 +20,6 @@ redirect_from:
       - Introduction to Image Understanding<br/>
       - Machine Intelligence Capstone Design<br/>
       - Decision Support Systems<br/>
-      - World of Opera
     </td>
     <td>
     </td>
