@@ -21,7 +21,7 @@ Research
 (More links coming soon!)
 
 | <figure style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/valley.gif" alt=""> </figure> | ***Mask-Guided Discovery of Semantic Manifolds in Generative Models***<br/>**Mengyu Yang**, David Rokeby, Xavier Snelgrove<br/>NeurIPS 2020 Workshop on Machine Learning for Creativity and Design<br/>[Paper]({{ site.url }}{{ site.baseurl }}/files/masked-gan-manifold.pdf) \| [Project](https://github.com/bmolab/masked-gan-manifold)| 
-| <figure style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/keyboard.png" alt=""> </figure> | ***Musical Speech: A Transformer-based Composition Tool***<br/>Jason d'Eon<sup>*</sup>, Sri Harsha Dumpala<sup>*</sup>, Chandramouli Shama Sastry<sup>*</sup>, Daniel Oore, **Mengyu Yang**, Sageev Oore<br/><sup>*</sup>Equal contribution<br/>NeurIPS 2020 Demonstration Track<br/>[Paper]({{ site.url }}{{ site.baseurl }}/files/musical-speech.pdf) \| Demo|  
+| <figure style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/keyboard.png" alt=""> </figure> | ***Musical Speech: A Transformer-based Composition Tool***<br/>Jason d'Eon<sup>*</sup>, Sri Harsha Dumpala<sup>*</sup>, Chandramouli Shama Sastry<sup>*</sup>, Daniel Oore, **Mengyu Yang**, Sageev Oore<br/>*<sup>*</sup>Equal contribution*<br/>NeurIPS 2020 Demonstration Track<br/>[Paper]({{ site.url }}{{ site.baseurl }}/files/musical-speech.pdf) \| Demo|  
 | <figure style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/CHI2021.png" alt=""> </figure> | ***CHI 2021 Conference Submission***<br/>Bryan Wang, **Mengyu Yang**, Tovi Grossman<br/>Paper \| Project \| Code|
 
 Teaching 
