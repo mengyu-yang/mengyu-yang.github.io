@@ -24,6 +24,13 @@ Research
 | <figure style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/keyboard.png" alt=""> </figure> | ***Musical Speech: A Transformer-based Composition Tool***<br/>Jason d'Eon<sup>*</sup>, Sri Harsha Dumpala<sup>*</sup>, Chandramouli Shama Sastry<sup>*</sup>, Daniel Oore, **Mengyu Yang**, Sageev Oore<br/><i><sup>*</sup>Equal contribution</i><br/>NeurIPS 2020 Demonstration Track<br/>[Paper]({{ site.url }}{{ site.baseurl }}/files/musical-speech.pdf) \| [Project](https://t.co/nl13bp4ong?amp=1)| 
 | <figure style="width: 230px"> <img src="{{ site.url }}{{ site.baseurl }}/images/CHI2021.png" alt=""> </figure> | ***Soloist: Generating Mixed-Initiative Tutorials from Existing Music Instructional Videos Through Audio Processing***<br/>Bryan Wang, **Mengyu Yang**, Tovi Grossman<br/>Conditionally accepted to the 2021 ACM Conference on Human Factors in Computing Systems (CHI '21)<br/>Paper \| Project|
 
+Projects 
+======
+***Social Distancing Detection***<br>
+An end-to-end pipeline that detects social distancing violations from stationary camera footage. This system takes into account social bubbles such as familes, couples, etc. that are not necessarily violating social distancing.<br>
+[Project](https://github.com/D-Hasan/social-distancing-detection)
+
+
 Teaching 
 ======
 After taking these courses myself during first year, I developed a strong interest in engineering design. It incorporates ideas and skills that can be applied to many fields. Also, understanding its fundamentals made me cognizant of how much it's incorporated into everyday things.  
