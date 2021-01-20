@@ -22,6 +22,11 @@ redirect_from:
       - Decision Support Systems<br/>
     </td>
     <td>
+      - Thesis (full year)<br/>
+      - Optimization in Machine Learning<br/>
+      - Distributed Systems<br/>
+      - Science & Technology in Popular Media<br/>
+      - Music for Orchestra
     </td>
  </tr>
 </table>
