@@ -33,7 +33,7 @@ An end-to-end pipeline that detects social distancing violations from stationary
 
 Teaching 
 ======
-After taking these courses myself during first year, I developed a strong interest in engineering design. It incorporates ideas and skills that can be applied to many fields. Also, understanding its fundamentals made me cognizant of how much it's incorporated into everyday things.  
+Having taken these courses myself during first year, I developed a strong interest in engineering design. After understanding its fundamentals, I realized that it incorporates ideas and skills that can be applied to many fields.  
 
 **ESC101: Praxis I | University of Toronto**   
 Fall 2019, Peer Assistant TA  
