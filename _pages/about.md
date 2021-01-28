@@ -19,9 +19,10 @@ Here's my [CV]({{ site.url }}{{ site.baseurl }}/files/Mengyu_Yang_CV.pdf) (Updat
 Research 
 ======
 
+| <figure style="width: 230px"> <img src="{{ site.url }}{{ site.baseurl }}/images/guitar.png" alt=""> </figure> | ***Soloist: Generating Mixed-Initiative Tutorials from Existing Guitar Instructional Videos Through Audio Processing***<br/>Bryan Wang, **Mengyu Yang**, Tovi Grossman<br/>2021 ACM Conference on Human Factors in Computing Systems (CHI '21)<br/>[Paper](https://arxiv.org/abs/2101.08846) \| [Video](https://youtu.be/JqQCeUPdk2U)|
 | <figure style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/valley.gif" alt=""> </figure> | ***Mask-Guided Discovery of Semantic Manifolds in Generative Models***<br/>**Mengyu Yang**, David Rokeby, Xavier Snelgrove<br/>NeurIPS 2020 Workshop on Machine Learning for Creativity and Design<br/>[Paper]({{ site.url }}{{ site.baseurl }}/files/masked-gan-manifold.pdf) \| [Project](https://github.com/bmolab/masked-gan-manifold) \| [Presentation](https://slideslive.com/38941013/maskguided-discovery-of-semantic-manifolds-in-generative-models)| 
 | <figure style="width: 200px"> <img src="{{ site.url }}{{ site.baseurl }}/images/keyboard.png" alt=""> </figure> | ***Musical Speech: A Transformer-based Composition Tool***<br/>Jason d'Eon<sup>*</sup>, Sri Harsha Dumpala<sup>*</sup>, Chandramouli Shama Sastry<sup>*</sup>, Daniel Oore, **Mengyu Yang**, Sageev Oore<br/><i><sup>*</sup>Equal contribution</i><br/>NeurIPS 2020 Demonstration Track<br/>[Paper]({{ site.url }}{{ site.baseurl }}/files/musical-speech.pdf) \| [Project](https://t.co/nl13bp4ong?amp=1)| 
-| <figure style="width: 230px"> <img src="{{ site.url }}{{ site.baseurl }}/images/guitar.png" alt=""> </figure> | ***Soloist: Generating Mixed-Initiative Tutorials from Existing Guitar Instructional Videos Through Audio Processing***<br/>Bryan Wang, **Mengyu Yang**, Tovi Grossman<br/>2021 ACM Conference on Human Factors in Computing Systems (CHI '21)<br/>[Paper](https://arxiv.org/abs/2101.08846) \| [Video](https://youtu.be/JqQCeUPdk2U)|
+
 
 Projects 
 ======
